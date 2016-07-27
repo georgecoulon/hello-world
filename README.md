@@ -1,4 +1,4 @@
 # hello-world
-My first repisitory\n
-My name is George\n
+My first repository <br />
+My name is George <br />
 I am from England
